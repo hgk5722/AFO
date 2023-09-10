@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.container2 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	
+}
+.container2_1 {
+	flex-grow: 2;
+	border: 1px solid black;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	
+	margin: 5px;
+}
+.container2_2 {
+	flex-grow: 1;
+	border: 1px solid black;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin: 5px;
+}
+
+.box2_1 {
+	flex-grow: 1;
+	border: 1px solid black;
+	margin: 1px;
+	
+}
+.box2_2 {
+	flex-grow: 1;
+	border: 1px solid black;
+	margin: 1px;
+}

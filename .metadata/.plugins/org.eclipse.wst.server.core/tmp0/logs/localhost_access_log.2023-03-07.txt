@@ -1,0 +1,10 @@
+127.0.0.1 - - [07/Mar/2023:00:45:07 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:09 +0900] "GET /AFO1/index.jsp HTTP/1.1" 200 18329
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:09 +0900] "GET /AFO1/fix/text_decoration.css HTTP/1.1" 200 254
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:09 +0900] "GET /AFO1/fix/MovieCSS.css HTTP/1.1" 200 468
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:11 +0900] "GET /AFO1/contents.jsp HTTP/1.1" 200 6924
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:11 +0900] "GET /AFO1/css_folder/ContentsCSS.css HTTP/1.1" 200 560
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:11 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:14 +0900] "GET /AFO1/userLogin.jsp HTTP/1.1" 200 1970
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:14 +0900] "GET /AFO1/css_folder/signin.css HTTP/1.1" 200 519
+0:0:0:0:0:0:0:1 - - [07/Mar/2023:00:45:16 +0900] "POST /AFO1/loginAction.jsp HTTP/1.1" 200 265

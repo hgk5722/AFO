@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:02:24:16 +0900] "GET /AFO1/contents.jsp HTTP/1.1" 200 6106
+0:0:0:0:0:0:0:1 - - [31/Jan/2023:02:24:16 +0900] "GET /AFO1/css_folder/ContentsCSS.css HTTP/1.1" 304 -

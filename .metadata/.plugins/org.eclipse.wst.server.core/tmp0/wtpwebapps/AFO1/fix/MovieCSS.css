@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+img {
+	width: 270px;
+	height: 340px;
+	
+	border: 2px solid black;
+}
+
+.prev_arrow {
+	position: absolute;
+	top: 40%;
+	left: 0;
+	z-index: 9;
+	font-size: 40px;
+	margin-left: 3px;
+}
+
+.next_arrow {
+	position: absolute;
+	top: 40%;
+	right: 0;
+	z-index: 9;
+	font-size: 40px;
+	margin-right: 6px;
+}
+
+.model1 {
+	padding-left: 15px;
+	padding-right: 10px;
+}
+
+h2 {
+	padding-left: 15px;
+}
+
+.white {
+  color: #fff;
+  border-radius: 50%;
+  border: solid 1px #a0a0a0;
+}
