@@ -44,14 +44,42 @@
 # 화면 구성 🖥️
 
 
-|메인페이지|드라마1|드라마2|
-|------|---|---|
-|<img src = "./실행사진/시작화면.png" width = "100%" height = "100%">|<img src = "./실행사진/drama1.png" width = "100%" height = "100%">|<img src = "./실행사진/drama_genre.png" width = "100%" height = "100%">|
-|개인정보확인|통합게시판|게시판목록|
-|<img src = "./실행사진/mypage.png" width = "100%" height = "100%">|<img src = "./실행사진/total_board.png" width = "100%" height = "100%">|<img src = "./실행사진/list.png" width = "100%" height = "100%">|
-|찜목록|영화토론방|웹툰목록|
-|<img src = "./실행사진/jjim1.png" width = "100%" height = "100%">|<img src = "./실행사진/board_movie3.png" width = "100%" height = "100%">|<img src = "./실행사진/webtoon1.png" width = "100%" height = "100%">|
 
+
+<br>
+
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <th style="border: 1px solid black; text-align: center; padding: 10px;"><b>메인페이지</b></th>
+        <th style="border: 1px solid black; text-align: center; padding: 10px;"><b>드라마1</b></th>
+        <th style="border: 1px solid black; text-align: center; padding: 10px;"><b>드라마2</b></th>
+    </tr>
+    <tr>
+        <td><img src="./실행사진/시작화면.png"></td>
+        <td><img src="./실행사진/drama1.png"></td>
+        <td><img src="./실행사진/drama_genre.png"></td>
+    </tr>
+    <tr>
+        <th text-align: center;><b>개인정보확인</b></th>
+        <th text-align: center;><b>통합게시판</b></th>
+        <th text-align: center;> <b>게시판목록</b></th>
+    </tr>
+    <tr>
+        <td><img src="./실행사진/mypage.png"></td>
+        <td><img src="./실행사진/total_board.png"></td>
+        <td><img src="./실행사진/list.png"></td>
+    </tr>
+    <tr>
+        <th text-align: center;><b>찜목록</b></th>
+        <th text-align: center;><b>영화토론방</b></th>
+        <th text-align: center;><b>웹툰목록</b></th>
+    </tr>
+    <tr>
+        <td><img src="./실행사진/jjim1.png"></td>
+        <td><img src="./실행사진/board_movie3.png"></td>
+        <td><img src="./실행사진/webtoon1.png"></td>
+    </tr>
+</table>
 
 <br>
 
