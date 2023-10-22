@@ -1,11 +1,48 @@
-# AFO
+# 🔆 한국공학대학교 컴퓨터공학과 졸업작품 AFO(ALL FOR ONE)
 
 <br>
 
-# STACKS ⚒️
+<h2><b> ⚒️ 제작기간 22.09 ~ 23.06 </b></h2>
+
+<br>
+<div>
+    <h1><b>💡 프로젝트 구상 이유</b></h1>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+    <h2><b>🔥끊임없이 생성되는 OTT 서비스🔥</b></h2>
+</div>
 
 
-<b>Environment</b>
+
+<table align="center">
+    <tr>
+        <th><img src="./실행사진/OTT파편화1.jpg"></th>
+        <th><img src="./실행사진/OTT파편화2.jpg"></th>
+        <th><img src="./실행사진/OTT파편화3.jpg"></th>
+    </tr>
+</table>
+<br>
+<div align="center">
+    <h2><b> 🔥 심화되는 OTT 경쟁 속 이용자가 원하는 인기 콘텐츠는 플랫폼별로 상이함 </h2></b>
+<br>
+    <h2><b> 🔥 그에 따라 콘텐츠의 플랫폼을 알려주는 서비스의 필요성 증가 </h2></b>
+</div>
+<br>
+<br>
+<div align="center">
+  <h1><b> 그로 인한 OTT 선택 피로 상승 😥</b></h1>
+</div>
+
+<br>
+
+# ⚒️ STACKS 
+
+
+<h2><b>Environment</b></h2>
 <div align="left">
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -14,11 +51,13 @@
   <img src="https://img.shields.io/badge/GOOGLEDRIVE-4285F4?style=flat-square&logo=googledrive&logoColor=white">
   <img src="https://img.shields.io/badge/GOOGLECHROME-4285F4?style=flat-square&logo=googlechrome&logoColor=white">
 </div>
-<br>
-<b>Development</b>
+<br><br>
+
+<h2><b>Development</b></h2>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-black?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/OPENJDK-437291?style=flat-square&logo=openjdk&logoColor=white">
@@ -29,9 +68,10 @@
   <img src="https://img.shields.io/badge/APACHETOMCAT-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
   
 </div>
-<br>
+<h3><b> 🔥slick-slider 추가! </b></h3>
+<br><br>
 
-<b>Communication</b>
+<h2><b>Communication</b></h2>
 <div align="left">
   <img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white">
@@ -39,9 +79,9 @@
   <img src="https://img.shields.io/badge/GOOGLEDOCS-4285F4?style=flat-square&logo=googledocs&logoColor=white">
 </div>
 
-<br>
+<br><br>
 
-# 화면 구성 🖥️
+# 🖥️ 화면 구성 
 
 
 
@@ -83,7 +123,7 @@
 
 <br>
 
-# 주요 기능 💡
+# 💡 주요 기능 
 
 <br>
 
@@ -106,13 +146,42 @@
 </pre>
 <br>
 
-# 아키텍처 💡
+# 💡 아키텍처 
 
 <br>
 
+<h2> ⚡️ 시스템 구상도 </h2>
+<br>
+<div style="text-align: center;">
+    <img src="./실행사진/시스템 구상도.jpg">
+</div>
 
 
+<br>
+<br>
 
+<h2> ⚡️ 시스템 모듈 설계 </h2>
+<br>
+<table>
+  <tr>
+    <th>
+      <img src="./실행사진/시스템 모듈 설계.jpg">
+    </th>
+    <th>
+      <img src="./실행사진/시스템 모듈 설계2.jpg">
+    </th>
+  </tr>
+</table>
 
+<br>
+
+# 팀원 
+<br>
+<pre>
+팀장: 강형근
+팀원: 이창근, 정관대
+</pre>
+
+<br>
 
 
