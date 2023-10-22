@@ -1,4 +1,4 @@
-<img width="1439" alt="인덱스화면" src="https://github.com/hgk5722/AFO/assets/95735511/4c9a641a-520a-4814-a474-b288938a3c2b"># AFO
+# AFO
 
 <br>
 
@@ -46,7 +46,7 @@
 
 |메인페이지|내용|설명|
 |------|---|---|
-|<img src= ![Uploading 인덱스화면.png…]()>|테스트2|테스트3|
+|<img src = "./실행사진/시작화면.png" width = "100%" height = "100%">  |<img src = "./실행사진/시작화면.png" width = "100%" height = "100%">|<img src = "./실행사진/시작화면.png" width = "100%" height = "100%">|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
