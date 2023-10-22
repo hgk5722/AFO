@@ -77,6 +77,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/WINDOWS10-0078D6?style=flat-square&logo=windows10&logoColor=white">
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/MACOS-000000?style=flat-square&logo=macos&logoColor=white">
 </div>
 <br><br>
 
