@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=jupyter&logoColor=white">
   
 </div>
-<h3><b> 🔥slick-slider 추가! </b></h3>
+<h3><b> 🔥slick-slider, beautiful soup 추가! </b></h3>
 <br><br>
 
 <h2><b>Running Environment</b></h2>
