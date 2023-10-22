@@ -66,9 +66,18 @@
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/FONTAWESOME-528DD7?style=flat-square&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/APACHETOMCAT-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=flat-square&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=jupyter&logoColor=white">
   
 </div>
 <h3><b> 🔥slick-slider 추가! </b></h3>
+<br><br>
+
+<h2><b>Running Environment</b></h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/WINDOWS10-0078D6?style=flat-square&logo=windows10&logoColor=white">
+  <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white">
+</div>
 <br><br>
 
 <h2><b>Communication</b></h2>
@@ -183,5 +192,13 @@
 </pre>
 
 <br>
+
+# 역할분담
+<br>
+<pre>
+    <img src="./실행사진/역할분담.png">
+    
+</pre>
+
 
 
