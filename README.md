@@ -1,5 +1,5 @@
-# 🔆 한국공학대학교 컴퓨터공학과 졸업작품 AFO(ALL FOR ONE)
-
+<br><br>
+<h3 align="center"> 🔆 한국공학대학교 컴퓨터공학과 졸업작품 AFO(ALL FOR ONE) </h3>
 <br>
 
 <h2><b> ⚒️ 제작기간 22.09 ~ 23.06 </b></h2>
